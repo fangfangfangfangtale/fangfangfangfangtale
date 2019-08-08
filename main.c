@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>/*lab3-3*/
 #include <stdlib.h>
 
 int main()
